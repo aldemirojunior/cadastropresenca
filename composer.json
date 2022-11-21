@@ -1,0 +1,16 @@
+{
+    "name": "5511934424010/cadastrodepresenca",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "5511934424010\\Cadastrodepresenca\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "aldemirojunior",
+            "email": "lelekojunior18@gmail.com"
+        }
+    ],
+    "require": {}
+}
